@@ -85,7 +85,7 @@ BTL_HocMayCoban/
 | `train/`               | Chứa mã nguồn huấn luyện mô hình   |
 | `train/train_model.py` | Thực hiện quá trình train model    |
 | `tests/`               | Chứa các file kiểm thử             |
-| `tests/test_api.py`    | Kiểm thử API                       |
+| `tests/test_model.py`    | Kiểm thử API                       |
 | `.gitignore`           | Các file/thư mục không đưa lên Git |
 | `README.md`            | Tài liệu mô tả dự án               |
 
